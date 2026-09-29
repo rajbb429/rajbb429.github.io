@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.rajbb429.ribwork",
+      "sha256_cert_fingerprints": [
+        "81:17:54:F1:5A:67:D3:6C:81:F3:0E:F2:5B:CA:6D:FB:72:69:8D:06:E9:61:53:E4:C7:DD:DF:30:4F:EC:F9:C1"
+      ]
+    }
+  }
+]
